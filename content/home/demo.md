@@ -10,7 +10,7 @@ weight = 15  # Order that this section will appear.
 
 draft = true
 
-title = "Academic Template"
+title = ""
 subtitle = ""
 
 [design]
